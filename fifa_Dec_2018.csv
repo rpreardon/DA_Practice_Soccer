@@ -1,0 +1,212 @@
+Rank,Team,Total_Points,Confederation
+1,Belgium,1727,UEFA
+2,France,1726,UEFA
+3,Brazil,1676,CONMEBOL
+4,Croatia,1634,UEFA
+5,England,1631,UEFA
+6,Portugal,1614,UEFA
+7,Uruguay,1609,CONMEBOL
+8,Switzerland,1599,UEFA
+9,Spain,1591,UEFA
+10,Denmark,1589,UEFA
+11,Argentina,1582,CONMEBOL
+12,Colombia,1575,CONMEBOL
+13,Chile,1565,CONMEBOL
+14,Sweden,1560,UEFA
+14,Netherlands,1560,UEFA
+16,Germany,1558,UEFA
+17,Mexico,1540,CONCACAF
+18,Italy,1539,UEFA
+19,Wales,1525,UEFA
+20,Poland,1518,UEFA
+20,Peru,1518,CONMEBOL
+22,Austria,1509,UEFA
+23,Senegal,1505,CAF
+24,Romania,1501,UEFA
+25,USA,1497,CONCACAF
+26,Tunisia,1493,CAF
+27,Slovakia,1483,UEFA
+28,Ukraine,1482,UEFA
+29,Serbia,1481,UEFA
+29,IR Iran,1481,AFC
+31,Venezuela,1478,CONMEBOL
+32,Paraguay,1476,CONMEBOL
+33,Republic of Ireland,1474,UEFA
+34,Bosnia and Herzegovina,1472,UEFA
+35,Northern Ireland,1465,UEFA
+36,Costa Rica,1464,CONCACAF
+37,Iceland,1452,UEFA
+38,Scotland,1446,UEFA
+39,Turkey,1443,UEFA
+40,Morocco,1440,CAF
+41,Australia,1436,AFC
+42,Czech Republic,1435,UEFA
+43,Greece,1428,UEFA
+44,Nigeria,1427,CAF
+44,Montenegro,1427,UEFA
+46,Bulgaria,1425,UEFA
+46,Norway,1425,UEFA
+48,Russia,1424,UEFA
+49,Congo DR,1420,CAF
+50,Japan,1414,AFC
+51,Hungary,1412,UEFA
+51,Ghana,1412,CAF
+53,Korea Republic,1405,AFC
+54,Jamaica,1404,CONCACAF
+55,Cameroon,1394,CAF
+56,Egypt,1393,CAF
+57,Ecuador,1382,CONMEBOL
+58,Finland,1378,UEFA
+59,Bolivia,1374,CONMEBOL
+60,Albania,1372,UEFA
+61,Burkina Faso,1371,CAF
+62,Slovenia,1369,UEFA
+62,Honduras,1369,CONCACAF
+64,Mali,1363,CAF
+65,Côte d'Ivoire,1356,CAF
+66,Guinea,1354,CAF
+67,Algeria,1347,CAF
+68,FYR Macedonia,1343,UEFA
+69,Saudi Arabia,1335,AFC
+70,El Salvador,1327,CONCACAF
+71,Panama,1326,CONCACAF
+72,South Africa,1325,CAF
+72,Cape Verde Islands,1325,CAF
+74,Syria,1322,AFC
+75,Uganda,1320,CAF
+76,Belarus,1317,UEFA
+76,China PR,1317,AFC
+78,Canada,1314,CONCACAF
+79,United Arab Emirates,1309,AFC
+80,Curacao,1306,CONCACAF
+81,Lebanon,1296,AFC
+82,Oman,1295,AFC
+83,Zambia,1292,CAF
+84,Congo,1280,CAF
+85,Gabon,1277,CAF
+86,Luxembourg,1276,UEFA
+86,Cyprus,1276,UEFA
+88,Iraq,1271,AFC
+89,Georgia,1269,UEFA
+90,Israel,1265,UEFA
+91,Kyrgyz Republic,1264,AFC
+92,Trinidad and Tobago,1260,CONCACAF
+93,Qatar,1258,AFC
+94,Benin,1257,CAF
+95,Uzbekistan,1251,AFC
+96,Estonia,1242,UEFA
+97,India,1240,AFC
+98,Faroe Islands,1238,UEFA
+99,Palestine,1236,AFC
+100,Vietnam,1229,AFC
+101,Mauritania,1222,CAF
+101,Armenia,1222,UEFA
+103,Haiti,1219,CONCACAF
+104,Libya,1217,CAF
+105,Kenya,1210,CAF
+106,Madagascar,1209,CAF
+107,Azerbaijan,1206,UEFA
+108,Niger,1205,CAF
+109,Korea DPR,1196,AFC
+109,Jordan,1196,AFC
+111,Namibia,1191,CAF
+112,Central African Republic,1180,CAF
+113,Bahrain,1178,AFC
+114,Zimbabwe,1175,CAF
+115,Sierra Leone,1172,CAF
+116,Philippines,1171,AFC
+117,Mozambique,1167,CAF
+118,Thailand,1160,AFC
+119,Kazakhstan,1159,UEFA
+120,Guinea-Bissau,1158,CAF
+120,Tajikistan,1158,AFC
+122,New Zealand,1157,OFC
+123,Togo,1136,CAF
+124,Chinese Taipei,1134,AFC
+125,Angola,1131,CAF
+126,Antigua and Barbuda,1126,CONCACAF
+127,Sudan,1120,CAF
+127,Turkmenistan,1120,AFC
+129,Nicaragua,1119,CONCACAF
+130,Malawi,1115,CAF
+131,Kosovo,1113,UEFA
+132,Latvia,1112,UEFA
+133,Andorra,1111,UEFA
+133,Lithuania,1111,UEFA
+135,Yemen,1106,AFC
+136,St. Kitts and Nevis,1105,CONCACAF
+137,Rwanda,1094,CAF
+138,Tanzania,1087,CAF
+139,Myanmar,1085,AFC
+139,Burundi,1085,CAF
+141,Hong Kong,1078,AFC
+141,Swaziland,1078,CAF
+143,Comoros,1076,CAF
+144,Solomon Islands,1073,OFC
+145,Botswana,1071,CAF
+146,Lesotho,1069,CAF
+147,Afghanistan,1068,AFC
+148,Equatorial Guinea,1063,CAF
+149,Guatemala,1061,CONCACAF
+150,Liberia,1051,CAF
+151,Ethiopia,1049,CAF
+152,Maldives,1046,AFC
+153,Suriname,1037,CONCACAF
+154,Dominican Republic,1036,CONCACAF
+154,New Caledonia,1036,OFC
+156,Mauritius,1022,CAF
+157,Tahiti,1020,OFC
+158,Kuwait,1018,AFC
+159,Indonesia,1003,AFC
+160,Belize,1002,CONCACAF
+161,Nepal,1001,AFC
+162,Barbados,998,CONCACAF
+163,Vanuatu,996,OFC
+164,South Sudan,994,CAF
+165,Singapore,991,AFC
+166,Gambia,986,CAF
+167,Malaysia,985,AFC
+168,Papua New Guinea,984,OFC
+169,Fiji,981,OFC
+170,Moldova,979,UEFA
+171,St. Lucia,976,CONCACAF
+172,Cambodia,970,AFC
+173,Grenada,968,CONCACAF
+174,Cuba,963,CONCACAF
+175,Chad,956,CAF
+176,Bermuda,952,CONCACAF
+177,Guyana,951,CONCACAF
+178,Dominica,950,CONCACAF
+179,Puerto Rico,948,CONCACAF
+180,St. Vincent / Grenadines,946,CONCACAF
+181,Liechtenstein,937,UEFA
+182,Malta,926,UEFA
+183,Macau,925,AFC
+184,Laos,923,AFC
+185,Sao Tome e Principe,920,CAF
+186,Bhutan,917,AFC
+187,Aruba,916,CONCACAF
+188,Mongolia,915,AFC
+189,Seychelles,911,CAF
+190,Cook Islands,908,OFC
+190,American Samoa,908,OFC
+192,Guam,907,AFC
+192,Bangladesh,907,AFC
+194,Gibraltar,905,UEFA
+195,Brunei Darussalam,903,AFC
+196,Timor-Leste,900,AFC
+197,Djibouti,896,CAF
+197,Samoa,896,OFC
+199,Pakistan,888,AFC
+200,Montserrat,887,CONCACAF
+201,Sri Lanka,886,AFC
+202,US Virgin Islands,881,CONCACAF
+203,Cayman Islands,874,CONCACAF
+204,Tonga,868,OFC
+204,Eritrea,868,CAF
+204,Somalia,868,CAF
+207,British Virgin Islands,867,CONCACAF
+208,Turks and Caicos Islands,864,CONCACAF
+208,Anguilla,864,CONCACAF
+210,Bahamas,858,CONCACAF
+211,San Marino,854,UEFA
